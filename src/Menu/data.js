@@ -15,6 +15,7 @@ export const productos=[
         alt: 'imagen 1',
         nombre: 'salchipapa personal ',
         descripcion:'queso costeño, 1 huevo , 1 taza de cebolla frita seca, Salsa agridulce o salsa de piña, pechuga, Carne de res ',
+        
         precio: '$50'
     },
     {
